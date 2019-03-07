@@ -1,0 +1,7 @@
+E:\aVs2010\wftest\wftest\bin\Debug\wftest.exe
+E:\aVs2010\wftest\wftest\bin\Debug\wftest.pdb
+E:\aVs2010\wftest\wftest\obj\x86\Debug\wftest.Form1.resources
+E:\aVs2010\wftest\wftest\obj\x86\Debug\wftest.Properties.Resources.resources
+E:\aVs2010\wftest\wftest\obj\x86\Debug\wftest.csproj.GenerateResource.Cache
+E:\aVs2010\wftest\wftest\obj\x86\Debug\wftest.exe
+E:\aVs2010\wftest\wftest\obj\x86\Debug\wftest.pdb
